@@ -161,7 +161,7 @@ npx jest --coverage
 | Nome | RA |
 |------|-----|
 | Enzo Ayres Bettini | 241955272 |
-| Gabriel Henrik de Castro Maia | _(a definir)_ |
+| Gabriel Henrik de Castro Maia | 24039452-2 |
 
 ## Entrega
 
